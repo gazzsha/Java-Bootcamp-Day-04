@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dd0d71f-ac4c-4657-b06b-dc32dc833198" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/it.bmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Logic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Printer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/app/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Logic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Printer.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2Zj2xpzNvJjEYoedK1nEMf16q3j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "develop",
+    "onboarding.tips.debug.path": "D:/school_21_projects/Java_Swim/Java_Bootcamp.Day04-1/src/ImagesToChar/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.school21.printer.Main" />
+      <module name="ImagesToChar" />
+      <option name="PROGRAM_PARAMETERS" value="0 , it.bmp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.school21.printer.logic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd0d71f-ac4c-4657-b06b-dc32dc833198" name="Changes" comment="" />
+      <created>1702921420277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702921420277</updated>
+    </task>
+    <servers />
+  </component>
+</project>
