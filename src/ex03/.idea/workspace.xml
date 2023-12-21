@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6dd0d71f-ac4c-4657-b06b-dc32dc833198" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/it.bmp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/app/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Logic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Matrix.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java/edu/school21/printer/logic/Printer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/app/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Logic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/edu/school21/printer/logic/Printer.class" beforeDir="false" />
+    <list default="true" id="970fee9d-e1b7-41ff-bf8d-a47e23f8fe13" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ImagesToChar/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,9 +23,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
+  "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2Zj2xpzNvJjEYoedK1nEMf16q3j" />
+  <component name="ProjectId" id="2Zobw6zNGySjdPzSC0gZZqbFqpm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,20 +35,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
-    "onboarding.tips.debug.path": "D:/school_21_projects/Java_Swim/Java_Bootcamp.Day04-1/src/ImagesToChar/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "D:/school_21_projects/Java_Swim/Java_Bootcamp.Day04-1/src/ex03/ImagesToChar/lib/JColor-5.5.1.jar",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.school21.printer.Main" />
-      <module name="ImagesToChar" />
-      <option name="PROGRAM_PARAMETERS" value="0 , it.bmp" />
+      <option name="MAIN_CLASS_NAME" value="edu.school21.printer.app.Main" />
+      <module name="ex03" />
+      <option name="PROGRAM_PARAMETERS" value="--white=RED --black=GREEN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="edu.school21.printer.logic.*" />
+          <option name="PATTERN" value="edu.school21.printer.app.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,11 +66,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6dd0d71f-ac4c-4657-b06b-dc32dc833198" name="Changes" comment="" />
-      <created>1702921420277</created>
+      <changelist id="970fee9d-e1b7-41ff-bf8d-a47e23f8fe13" name="Changes" comment="" />
+      <created>1703091615102</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1702921420277</updated>
+      <updated>1703091615102</updated>
     </task>
     <servers />
   </component>
